@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "04b67036-8208-4ea8-8156-80f67f4366d1": {
+      "label": "Radiolab Driverless Dilemma",
+      "is_offline": false,
+      "file_url": "https://waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/46262cab-824d-43f8-9044-839c620ef092/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_573a80f0c1f1a9a2409c754cdfacffc5_42264561.mp3?awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=46262cab-824d-43f8-9044-839c620ef092&hash_redirect=1&x-total-bytes=42264561&x-ais-classified=streaming&listeningSessionID=0CD_382_22__422ae629a0d6c5c3eba08294309aaee091775c57",
+      "duration": 2639
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Radio Lab Driverless Dilemma",
+  "created_at": "2025-01-23T19:05:30.833Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-01-23T19:05:30.833Z",
+  "updated_by": "saamturner"
+}
