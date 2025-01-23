@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "7b7a7016-8fb8-4a1a-8026-a654f7502473": {
+      "label": "Radiolab Curiosity Killed the Adage",
+      "is_offline": false,
+      "file_url": "https://waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/9cbc8cf5-9489-49da-88d6-77b241b3f451/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_17c7bdce3ef449d51aa7cd68bc80da72_54023498.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=9cbc8cf5-9489-49da-88d6-77b241b3f451&feed=EmVW7VGp&hash_redirect=1&x-total-bytes=54023498&x-ais-classified=streaming&listeningSessionID=0CD_382_22__01046ae0d2ba917ed3cfa2ab32abbbd5dd243826",
+      "duration": 3376
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Radiolab Curiosity Killed the Adage",
+  "created_at": "2025-01-23T18:56:31.562Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-01-23T18:56:31.562Z",
+  "updated_by": "saamturner"
+}
