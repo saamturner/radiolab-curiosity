@@ -18,11 +18,169 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Type",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Speaker",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Topic",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Rhetorical Situation",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Type"
+        },
+        {
+          "tag": "Archive Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "News Clip",
+          "category": "Type"
+        },
+        {
+          "tag": "Sound Effect",
+          "category": "Type"
+        },
+        {
+          "tag": "Latif",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Jad",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nick",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Producer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewee",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Christoph von Hugo",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Raj Rajkumar",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Amanda Aroncyzk",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Michael Taylor",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Interviewer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Woman 1",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Woman 2",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Woman 3",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Woman 4",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Woman 5",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Josh Greene",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Man",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Man 1",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Man 2",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Man 3",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Man 4",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bill Ford Jr.",
+          "category": "Speaker"
+        },
+        {
+          "tag": "German Speaker",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Translator",
+          "category": "Speaker"
+        },
+        {
+          "tag": "MASH",
+          "category": "Topic"
+        },
+        {
+          "tag": "Ethos",
+          "category": "Topic"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Topic"
+        },
+        {
+          "tag": "Logos",
+          "category": "Topic"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Situation"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Situation"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Situation"
+        }
+      ]
     },
     "created_at": "2025-01-23T18:55:58.691Z",
-    "updated_at": "2025-01-23T21:22:37.374Z",
+    "updated_at": "2025-01-24T21:18:09.553Z",
     "generate_pages_site": true
   },
   "is_private": false
