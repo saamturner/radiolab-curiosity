@@ -4,7 +4,47 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[insert student-generated content about this project] "
+          "text": "ASSIGNMENT: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Throughout Unit 1, you'll keep track your research through annotated citations, which you'll use as the foundation of Project 1. Each annotated citation should include an MLA-style citation and an analytical paragraph responding to the questions given (which will change somewhat from assignment to assignment). For this homework assignment,  you will need to read chapter 1 of Nicotra's Becoming Rhetorical.  Then, read/listen to Radiolab's \"Driverless DilemmaLinks to an external site.\" and the Austin American-Statesman's \"More driverless cars are coming to Austin: what you need to knowLinks to an external site.\" and complete an annotated citation for each of them (i.e. two different MLA citations and two different analysis paragraphs) that includes the following:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1) MLA-style citation: a standard, MLA citation of the source "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2) Analysis: Identify the communicator, message, and audience, using Nicotra's Chapter 1 for guidance"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Students' responses: "
         }
       ]
     },
@@ -201,6 +241,6 @@
   "slug": "introduction",
   "created_at": "2025-01-28T20:23:23.596Z",
   "created_by": "saamturner",
-  "updated_at": "2025-01-28T20:42:21.565Z",
+  "updated_at": "2025-01-28T20:48:11.858Z",
   "updated_by": "saamturner"
 }
