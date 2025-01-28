@@ -3,10 +3,10 @@
   "created_at": "2025-01-23T18:55:58.716Z",
   "created_by": "saamturner",
   "title": "Programming Historian Sample Project",
-  "updated_at": "saamturner",
-  "updated_by": "2025-01-23T18:55:58.716Z",
+  "updated_at": "2025-01-28T21:59:33.558Z",
+  "updated_by": "trentwintermeier",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
