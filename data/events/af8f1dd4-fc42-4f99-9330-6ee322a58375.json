@@ -9,17 +9,54 @@
   },
   "auto_generate_web_page": true,
   "item_type": "Audio",
-  "label": "Radio Lab Driverless Dilemma",
+  "label": "Annotating Radiolab's \"Driverless Dilemma\"",
   "created_at": "2025-01-23T19:05:30.833Z",
   "created_by": "saamturner",
-  "updated_at": "2025-01-28T21:13:45.574Z",
+  "updated_at": "2025-01-28T23:55:55.738Z",
   "updated_by": "saamturner",
   "description": [
     {
       "type": "paragraph",
       "children": [
         {
-          "text": "[insert some info about how to navigATE THE PAGE]"
+          "text": "Below you'll find a media player featuring Radiolab's \"Driverless Dilemma\" podcast episode and my annotations on the podcast. You can navigate the annotations in a few different ways: "
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Play the audio and follow along as the annotations auto-scroll according to the timestamps, "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Filter the annotations by their tags and categories to view specific annotations (e.g., select \"Rhetorical Situation\" to see all annotations about this group of tags, or select an individual tag, like \"ethos,\" to only view moments tagged as \"ethos\"), and "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Use the search bar to search terms in the annotations. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You can also explore my annotations by navigating to the project's Index, which will visualize all of the tags and categories across the media. "
         }
       ]
     }
