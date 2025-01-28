@@ -33,8 +33,16 @@
             },
             {
               "type": "image",
-              "url": "https://www.google.com/imgres?q=jodie%20nicotra%20becoming%20rhetorical&imgurl=https%3A%2F%2Fredshelf-images.s3-external-1.amazonaws.com%2Fcover_image%2F9781337670272.png&imgrefurl=https%3A%2F%2Fredshelf.com%2Fapp%2Fecom%2Fbook%2F880648%2Fbecoming-rhetorical-analyzing-and-composing-in-a-multimedia-world-w-mla9e-apa7e-updates-880648-9781337670272-jodie-nicotra&docid=U_yhqi3sXcGDeM&tbnid=E5nE8Zxrp3rteM&vet=12ahUKEwi6ivLAv5mLAxXUHNAFHcgSEe0QM3oECG0QAA..i&w=956&h=1368&hcb=2&ved=2ahUKEwi6ivLAv5mLAxXUHNAFHcgSEe0QM3oECG0QAA",
-              "size": "medium",
+              "url": "https://m.media-amazon.com/images/I/51TJalII3QL._AC_UF1000,1000_QL80_.jpg",
+              "size": "thumbnail",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
@@ -110,7 +118,7 @@
   "slug": "analytical-framework-the-rhetorical-situatio",
   "created_at": "2025-01-28T20:24:40.548Z",
   "created_by": "saamturner",
-  "updated_at": "2025-01-28T22:55:41.906Z",
+  "updated_at": "2025-01-28T23:17:48.119Z",
   "updated_by": "saamturner",
   "parent": "1d5924b3-ccd8-45ae-a967-62e99652cf8b"
 }
