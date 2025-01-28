@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "ASSIGNMENT: "
+          "text": "ASSIGNMENT DESCRIPTION:"
         }
       ]
     },
@@ -12,87 +12,70 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Throughout Unit 1, you'll keep track your research through annotated citations, which you'll use as the foundation of Project 1. Each annotated citation should include an MLA-style citation and an analytical paragraph responding to the questions given (which will change somewhat from assignment to assignment). For this homework assignment,  you will need to read chapter 1 of Nicotra's Becoming Rhetorical.  Then, read/listen to Radiolab's \"Driverless DilemmaLinks to an external site.\" and the Austin American-Statesman's \"More driverless cars are coming to Austin: what you need to knowLinks to an external site.\" and complete an annotated citation for each of them (i.e. two different MLA citations and two different analysis paragraphs) that includes the following:"
+          "text": "Throughout Unit 1, you'll track your research through annotated citations on various sources of your choosing. Each annotated citation should include:"
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "numbered-list",
       "children": [
         {
-          "text": "1) MLA-style citation: a standard, MLA citation of the source "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "list-item",
+          "children": [
+            {
+              "text": "An MLA-style citation of your chosen source, and "
+            }
+          ]
+        },
         {
-          "text": "2) Analysis: Identify the communicator, message, and audience, using Nicotra's Chapter 1 for guidance"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Students' responses: "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Analysis: The two main communicators of this podcasts are Robert Krulwich and Jad Abumrad. Their podcast focuses on deep dives into certain scientific or philosophical topics. This episodes discusses the dilemma of driverless cars and the morality of the new technology. Since it is a new technology we do not know how safe it will be long term and with other human drivers on the road and pedestrians walking around. If someone is injured who is liable. These are all questions discussed in the podcast to provoke the audience to think about if they are in favor or not of the new driverless cars."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Analysis: The main topic of the podcast appears to be \"The Trolley Problem\", which is best stated as, \"Do you kill one man by pulling a lever or kill five men by doing nothing?\" It opens up discussion for morality and how new technologies test our moral conduct when they are on their way to our streets. The question eventually translates to \"Would you drive in a car that could potentially kill others and in the event of an accident, should harm the pedestrians or those in the vehicle?\" There are several communicators over the course of this podcast episode, including the two hosts Jad Abumrad and Robert Krulwich also joined by Josh Greene. Greene is a philosopher and neuroscientist from Princeton that tested how different parts of the brain light up when asked these questions to see their response to the moral quandary. They mention Greene's education and occupation in order to build credibility and trust to his name so the audience is more inclined to listen respect his studies and findings on the subject. Abumrad and Krulwich are more of the \"relatable\" figures in this podcast as they were not previously informed on the moral science behind the topic of dangerous driverless vehicles. The overall message is that there is not one straight answer or solution to the problem of driverless cars. Not one person should decide whether or not who gets to survive in a situation where a driverless vehicle is a danger to someone. Technology is advancing and at a rapid pace, but we have to understand that as technology progresses in society, there are bound to be more flaws and issues with it. The audience is generally the everyday drivers, pedestrians, and car companies. In the podcast, they make sure to address directly how each party will be affected by the invention and roll put of driverless automobiles. People who drive vehicles as a source of income will be out of jobs because technology is taking them, pedestrians are more at risk to harm and accidents caused by a vehicle with limited awareness of surroundings, and car companies could lose business if customers refuse to purchase cars that could potentially be a danger on the road. No matter what role one plays in the \"driverless dilemma\", they are facing some form of near harm due to the invention."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Analysis: The two main communicators of this podcasts are Robert Krulwich and Jad Abumrad. Their podcast focuses on deep dives into certain scientific or philosophical topics. This episodes discusses the dilemma of driverless cars and the morality of the new technology. Since it is a new technology we do not know how safe it will be long term and with other human drivers on the road and pedestrians walking around. If someone is injured who is liable. These are all questions discussed in the podcast to provoke the audience to think about if they are in favor or not of the new driverless cars."
+          "type": "list-item",
+          "children": [
+            {
+              "text": "An analytical paragraph identifying "
+            },
+            {
+              "text": "communicator",
+              "underline": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "message",
+              "underline": true
+            },
+            {
+              "text": ", and "
+            },
+            {
+              "text": "audience",
+              "underline": true
+            },
+            {
+              "text": " present in the source, as well as the source's use of rhetorical appeals ("
+            },
+            {
+              "text": "ethos",
+              "underline": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "pathos",
+              "underline": true
+            },
+            {
+              "text": ", "
+            },
+            {
+              "text": "logos",
+              "underline": true
+            },
+            {
+              "text": "). "
+            }
+          ]
         }
       ]
     },
@@ -105,10 +88,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "horizontal-separator",
       "children": [
         {
-          "text": "Jad Abumrad is an American radio host who founded Radiolab and has worked for several radio"
+          "text": ""
         }
       ]
     },
@@ -116,7 +99,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "stations throughout his life. Having a wide reputation, Abumrad won the MacArthur"
+          "text": "Citation: ",
+          "bold": true
+        },
+        {
+          "text": "Abumrad, Jad, and Krulwich, Robert (hosts). \"Driverless Dilemma.” Radiolab, September 26, 2017. "
+        },
+        {
+          "text": "https://radiolab.org/podcast/driverless-dilemma",
+          "link": "https://radiolab.org/podcast/driverless-dilemma"
         }
       ]
     },
@@ -124,7 +115,46 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Fellow in 2011, which is awarded to several people throughout the year who perform"
+          "text": "Analysis: ",
+          "bold": true
+        },
+        {
+          "text": "The two main "
+        },
+        {
+          "text": "communicators",
+          "underline": true
+        },
+        {
+          "text": " of this podcast are Robert Krulwich and Jad Abumrad, who are Radiolab hosts. The hosts also invite on an expert, Josh Greene, who is a neuroscientist from Princeton whose research focuses on the human brain's response to moral quandries. The podcast hosts mention Greene's education and occupation in order to build credibility ("
+        },
+        {
+          "text": "ethos",
+          "underline": true
+        },
+        {
+          "text": "), which leads the audience to be more inclined to listen respect his findings on the subject. In addition to Greene's interview, the hosts use audio from various unnamed people who were surveyed as part of Greene's studies on morality. These "
+        },
+        {
+          "text": "communicators",
+          "underline": true
+        },
+        {
+          "text": " are presented as representatives of the \"general public,\" and are supposed to be relatable to the podcast's listeners ("
+        },
+        {
+          "text": "ethos",
+          "underline": true
+        },
+        {
+          "text": "/"
+        },
+        {
+          "text": "pathos",
+          "underline": true
+        },
+        {
+          "text": "). "
         }
       ]
     },
@@ -132,7 +162,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "outstanding, creative work. Abumrad details his opinions on driverless cars, by"
+          "text": "This episode's "
+        },
+        {
+          "text": "message",
+          "underline": true
+        },
+        {
+          "text": " relates to the dilemma of autonomous/self-driving cars, especially considering the morality of implementing this new technology. Using the famous \"trolley problem\" as an anecdote to better understand how self-driving cars will make decisions about safety, the podcast's overall "
+        },
+        {
+          "text": "message",
+          "underline": true
+        },
+        {
+          "text": " is to provoke their listeners to think about the implications of self-driving cars for anyone on the road. They do this by invoking the emotional responses of the unnamed survey participants, who, as a group, represent a \"typical\" moral response to the trolley problem: \"Do you kill one man by pulling a lever or kill five men by doing nothing?\" The survey participants' responses are highly emotional and reactive (for example, \"No! Never!\"), provoking the listener to emotionally respond ("
+        },
+        {
+          "text": "pathos",
+          "underline": true
+        },
+        {
+          "text": ") to the dilemma, too. "
         }
       ]
     },
@@ -140,79 +191,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "emphasizing the risk of deaths when issues are created. He points out the fact that most"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "I believe the main "
+        },
         {
-          "text": "people would choose to let one person die in order to save five others; however, those"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "audience",
+          "underline": true
+        },
         {
-          "text": "same people would not kill one person in order to save five. By bringing this point up, he"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": " for this podcast episode is people interested in scientific and technological development. However, the podcast's hosts and even the experts they bring on use very approachable language and humor, so I know this episode is not targeting highly technical or scholarly audiences. The "
+        },
         {
-          "text": "proves his thoughts on driverless cars, where he believes a car cannot make these types of"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "message",
+          "underline": true
+        },
         {
-          "text": "decisions, and can place a rider at great risk. He believes a driverless car does not know"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": " is conveyed logically and includes various perspectives, which also means the target audience may be educated people who are likely to be swayed by logical, factual information ("
+        },
         {
-          "text": "how to protect everyone, either placing people in public or the rider in danger, yet we do"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "logos",
+          "underline": true
+        },
         {
-          "text": "not know which is more in danger. Jad Abumrad’s podcast is trying to reach out to a"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "larger U.S. audience in order to possibly prevent companies like Uber from completing a"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "driverless car without making sure the car can learn the differences in how to protect a"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "human."
+          "text": "). "
         }
       ]
     },
@@ -225,22 +225,31 @@
       ]
     },
     {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "text": "Citation: [CHECK!!!!!] Abumrad, Jad, Host. Krulwich, Robert, Host. \"Driverless Dilemma.” Radiolab, September 26, 2017. https://radiolab.org/podcast/driverless-dilemmaLinks to an external site."
+          "text": "In the next page of this project, I annotated the podcast audio to include the transcript, speakers, rhetorical appeals (ethos, pathos, logos), and topics addressed by the communicators. "
         }
       ]
     }
   ],
-  "title": "Introduction",
+  "title": "Project Introduction + Assignment Description",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "introduction",
+  "slug": "project-introduction-assignment-description",
   "created_at": "2025-01-28T20:23:23.596Z",
   "created_by": "saamturner",
-  "updated_at": "2025-01-28T20:48:11.858Z",
-  "updated_by": "saamturner"
+  "updated_at": "2025-01-28T22:39:48.328Z",
+  "updated_by": "saamturner",
+  "parent": "1d5924b3-ccd8-45ae-a967-62e99652cf8b"
 }
