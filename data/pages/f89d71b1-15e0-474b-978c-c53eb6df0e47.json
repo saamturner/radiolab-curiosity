@@ -72,16 +72,23 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
-      "uuid": "af8f1dd4-fc42-4f99-9330-6ee322a58375",
+      "uuid": "798f2fc6-bf16-40c7-b16e-7e102a73f5eb",
       "includes": [
         "media",
-        "annotations",
-        "label"
+        "annotations"
       ],
       "start": 464,
       "end": 556,
-      "file": "04b67036-8208-4ea8-8156-80f67f4366d1",
+      "file": "c40fa15c-0003-4891-874a-25c6f6298f7e",
       "children": [
         {
           "text": ""
@@ -105,7 +112,7 @@
   "slug": "analytical-framework-the-rhetorical-situatio",
   "created_at": "2025-01-28T20:24:40.548Z",
   "created_by": "saamturner",
-  "updated_at": "2025-01-29T17:35:15.942Z",
-  "updated_by": "tanyaclement",
+  "updated_at": "2025-01-29T22:47:47.596Z",
+  "updated_by": "saamturner",
   "parent": "1d5924b3-ccd8-45ae-a967-62e99652cf8b"
 }
