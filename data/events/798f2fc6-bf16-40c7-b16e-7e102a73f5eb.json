@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "c40fa15c-0003-4891-874a-25c6f6298f7e": {
+      "label": "Radiolab Driverless Dilemma",
+      "is_offline": false,
+      "file_url": "https://ia904609.us.archive.org/8/items/default.mp3_ywr3ahjkcgo_6e72db19d1eaeacf49bcd718504a6445_40141408/default.mp3_ywr3ahjkcgo_6e72db19d1eaeacf49bcd718504a6445_40141408.mp3",
+      "duration": 2506
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Radio Lab Driverless Dilemma",
+  "created_at": "2025-01-29T21:21:51.028Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-01-29T21:21:51.028Z",
+  "updated_by": "saamturner"
+}
