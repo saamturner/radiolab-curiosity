@@ -17,78 +17,65 @@
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "block-quote",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "An MLA-style citation of your chosen source, and "
-            }
-          ]
+          "text": "1. An MLA-style citation of your chosen source, and "
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "2. An analytical paragraph identifying "
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "An analytical paragraph identifying "
-            },
-            {
-              "text": "communicator",
-              "underline": true
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "message",
-              "underline": true
-            },
-            {
-              "text": ", and "
-            },
-            {
-              "text": "audience",
-              "underline": true
-            },
-            {
-              "text": " present in the source, as well as the source's use of rhetorical appeals ("
-            },
-            {
-              "text": "ethos",
-              "underline": true
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "pathos",
-              "underline": true
-            },
-            {
-              "text": ", "
-            },
-            {
-              "text": "logos",
-              "underline": true
-            },
-            {
-              "text": "). "
-            }
-          ]
+          "text": "communicator",
+          "underline": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "message",
+          "underline": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "audience",
+          "underline": true
+        },
+        {
+          "text": " present in the source, as well as the source's use of rhetorical appeals ("
+        },
+        {
+          "text": "ethos",
+          "underline": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "pathos",
+          "underline": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "logos",
+          "underline": true
+        },
+        {
+          "text": "). "
         }
       ]
     },
     {
       "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
       "children": [
         {
           "text": ""
@@ -249,7 +236,7 @@
   "slug": "project-introduction-assignment-description",
   "created_at": "2025-01-28T20:23:23.596Z",
   "created_by": "saamturner",
-  "updated_at": "2025-01-28T22:39:48.328Z",
-  "updated_by": "saamturner",
+  "updated_at": "2025-01-29T15:29:36.672Z",
+  "updated_by": "tanyaclement",
   "parent": "1d5924b3-ccd8-45ae-a967-62e99652cf8b"
 }
