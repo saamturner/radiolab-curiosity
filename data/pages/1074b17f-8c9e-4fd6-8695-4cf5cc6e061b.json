@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-01-30T21:19:55.807Z",
+  "created_by": "tanyaclement",
+  "title": "Radiolab Driverless Dilemma",
+  "slug": "radiolab-driverless-dilemma-2",
+  "updated_at": "2025-01-30T21:19:55.807Z",
+  "updated_by": "tanyaclement",
+  "parent": "1d5924b3-ccd8-45ae-a967-62e99652cf8b",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b43d6c45-0948-4e55-be80-6c0a14527e72"
+  }
+}
